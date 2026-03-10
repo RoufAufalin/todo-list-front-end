@@ -1,5 +1,5 @@
 ﻿export const API_ROUTES = {
-  register: "/users/register",
+  register: "/users/registers",
   login: "/users/login",
   todos: "/todos/",
   addTodo: "/todos/add",

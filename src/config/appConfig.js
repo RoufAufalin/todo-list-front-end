@@ -3,7 +3,7 @@
   token: "todo_api_token",
 }
 
-export const DEFAULT_BASE_URL = "http://localhost:3000"
+export const DEFAULT_BASE_URL = "http://localhost"
 export const DEFAULT_PRIORITY = "normal"
 
 export const PRIORITY_OPTIONS = [

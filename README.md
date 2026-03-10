@@ -35,6 +35,24 @@ npm run dev
 
 Buka URL dev server (default `http://localhost:5173`).
 
+## Jalankan Dengan Docker
+
+Pastikan Docker Desktop sudah aktif, lalu dari root project jalankan:
+
+```bash
+docker compose up --build
+```
+
+Setelah container jalan, buka:
+
+`http://localhost:5173`
+
+Untuk stop:
+
+```bash
+docker compose down
+```
+
 ## Cara Pakai
 
 1. Isi `Base URL API` (contoh: `http://localhost:3000`).
